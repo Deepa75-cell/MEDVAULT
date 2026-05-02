@@ -1,0 +1,6 @@
+{
+  "name": "MediVault",
+  "description": "A patient-centric medical history repository enabling secure report sharing with doctors, AI-powered health insights, and seamless digitization of physical prescriptions.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["Firebase Authentication", "Firestore Database", "AI Analysis", "Document Storage"]
+}
